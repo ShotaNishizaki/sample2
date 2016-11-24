@@ -1,6 +1,6 @@
 ﻿// デモ用Javascript
 // 作成日 2016/11/22
-
+// 更新日 2016/11/24
 
 function httpGet(url) {
   console.log("#### Start: httpGet(). ####");
