@@ -18,7 +18,7 @@ function httpGet(url) {
     }
   });
   
-  console.log("#### End: httpGet() ###");
+  console.log("#### End: httpGet() ####");
   
   return ret;
 }
