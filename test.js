@@ -1,7 +1,7 @@
 ﻿// デモ用Javascript
 
 function httpGet(url) {
-  console.log("### Start: httpGet(). ###");
+  console.log("#### Start: httpGet(). ####");
 
   var ret = "";
   $.ajax({
