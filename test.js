@@ -3,7 +3,7 @@
 // 更新日 2016/11/24
 
 function httpGet(url) {
-  console.log("#### Start: httpGet(). ####");
+  console.log("#### Start: httpGets(). ####");
 
   var ret = "";
   $.ajax({
