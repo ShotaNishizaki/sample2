@@ -20,7 +20,7 @@ function httpGet(url) {
     }
   });
   
-  console.log("#### End: httpGet(). ####");
+  console.log("#### End: httpGets(). ####");
   
   return ret;
 }
